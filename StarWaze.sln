@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWaze", "StarWaze\StarWaze.csproj", "{155E1BFD-9C0C-430B-AB51-33F98C789FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWaze.Gateway", "StarWaze.Gateway\StarWaze.Gateway.csproj", "{87F40EE4-5B2E-4790-85CB-180A99E6636A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWaze.Services", "StarWaze.Services\StarWaze.Services.csproj", "{18CF54FA-C274-4079-806F-C5C3986C39A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWaze.Services.Tests", "StarWaze.Services.Test\StarWaze.Services.Tests.csproj", "{A3D9C32A-61F3-461F-BA79-3D9955854127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{928F9A76-1120-4F7A-8639-DE418062EFF6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155E1BFD-9C0C-430B-AB51-33F98C789FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E1BFD-9C0C-430B-AB51-33F98C789FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E1BFD-9C0C-430B-AB51-33F98C789FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E1BFD-9C0C-430B-AB51-33F98C789FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F40EE4-5B2E-4790-85CB-180A99E6636A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F40EE4-5B2E-4790-85CB-180A99E6636A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F40EE4-5B2E-4790-85CB-180A99E6636A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F40EE4-5B2E-4790-85CB-180A99E6636A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CF54FA-C274-4079-806F-C5C3986C39A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CF54FA-C274-4079-806F-C5C3986C39A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CF54FA-C274-4079-806F-C5C3986C39A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CF54FA-C274-4079-806F-C5C3986C39A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D9C32A-61F3-461F-BA79-3D9955854127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D9C32A-61F3-461F-BA79-3D9955854127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D9C32A-61F3-461F-BA79-3D9955854127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D9C32A-61F3-461F-BA79-3D9955854127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
